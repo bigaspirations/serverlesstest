@@ -61,8 +61,6 @@ functions:
   hello:
     handler: handler.hello
 
-
-functions:
   helloAgain:
     handler: handler.hello
 
